@@ -1,4 +1,4 @@
-# Hi, I'm HongGyo Kim 👋
+# Hi, I'm HongKyo Kim 👋
 
 Backend developer and full-stack engineer with experience across NLP/NLU solutions, data platforms, fintech services, and SaaS-style product development.
 
